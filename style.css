@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to right, #702963, #770737);
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin: auto;
+    margin-top: 35%;
+    
+    
+}
+span{
+    font-family: 'Unbounded', cursive;
+    font-size: 45px;
+    color: #FFFFF0;
+    margin-left: 50;
+    text-align: center;
+    
+}
